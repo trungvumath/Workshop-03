@@ -16,7 +16,10 @@ This material is part of INMAS Workshop #3 - Machine Learning
 ## Saturday Morning
 
 - Framework of Statistical Learning, Regularization, High-Dimensional Data
+[lecture 1a part1](https://youtu.be/7FGVnJ_5NKs)
+[lecture 1a part2](https://youtu.be/IUS25cYptP0)
 - Sparse Regression
+[lecture 1b](https://youtu.be/zQTCMRu-g74)
 
 ## Saturday Afternoon
 
