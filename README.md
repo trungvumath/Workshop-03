@@ -23,9 +23,9 @@ This material is part of INMAS Workshop #3 - Machine Learning
 
 ## Saturday Afternoon
 
-- Classification Problems
+- Classification Problems [lecture 2 part1](https://youtu.be/I1VZVXD5Rag)
 - k-Nearest Neighbors
-- Imaging Problems
+- Imaging Problems [lecture 2 part2](https://youtu.be/d9Y7MGkxUEY)
 - Natural Language Processing
 
 ## Sunday Morning
