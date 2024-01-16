@@ -23,18 +23,18 @@ This material is part of INMAS Workshop #3 - Machine Learning
 
 ## Saturday Afternoon
 
-- Classification Problems [lecture 2 part1](https://youtu.be/I1VZVXD5Rag)
+- Classification Problems [lecture 2 - part 1](https://youtu.be/I1VZVXD5Rag)
 - k-Nearest Neighbors
-- Imaging Problems [lecture 2 part2](https://youtu.be/d9Y7MGkxUEY)
+- Imaging Problems [lecture 2 - part 2](https://youtu.be/d9Y7MGkxUEY)
 - Natural Language Processing
 
 ## Sunday Morning
 
-- Dimensionality Reduction
-- Principal Component Analysis
+- Dimensionality Reduction [lecture 3 - part 1](https://youtu.be/jmBmRtp_TZM)
+- Principal Component Analysis [lecture 3 - part 2](https://youtu.be/S9m_iYK-VCE)
 - Clustering via k-means
 
 ## Sunday Afternoon
 
-- Basics of Artificial Neural Networks
-- PyTorch for Deep Learning
+- Basics of Artificial Neural Networks [lecture 4 - part 1](https://youtu.be/THGcNTCIzbE)
+- PyTorch for Deep Learning [lecture 3 - part 2](https://youtu.be/zntMbeCS8bE) [lecture 3 - part 3](https://youtu.be/ivJNoNrY3ZY)
